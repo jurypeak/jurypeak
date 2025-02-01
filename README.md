@@ -16,7 +16,7 @@ And I use arch btw.
 - **Description**: Dotfiles for my arch linux system config.
 - **Link**: [Dotfiles](https://github.com/jurypeak/.dotfiles)
 
-- ### Stolify
+### Stolify
 - **Name**: [Dotfiles](https://github.com/jurypeak/Stolify-PHP)
 - **Description**: Music website - HND Year 2
 - **Link**: [Dotfiles](https://github.com/jurypeak/Stolify-PHP)
