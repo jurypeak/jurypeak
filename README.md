@@ -1,3 +1,3 @@
 ### jurypeak
 
-I make things ged.
+I make things.
