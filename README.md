@@ -16,4 +16,4 @@ And I use arch btw.
 
 #### Stolify
 - **Description**: Music website - HND Year 2
-- **Link**: [Dotfiles](https://github.com/jurypeak/Stolify-PHP)
+- **Link**: [Stolify](https://github.com/jurypeak/Stolify-PHP)
