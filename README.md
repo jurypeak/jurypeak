@@ -20,4 +20,4 @@ And I use arch btw.
 
 #### OOP
 - **Description**: OOP assignment - HND Year 2
-- **Link**: [OOP]((https://github.com/jurypeak/OOP-Assignment-Year-2))
+- **Link**: [OOP](https://github.com/jurypeak/OOP-Assignment-Year-2)
