@@ -1,5 +1,4 @@
-# James MacKenzie
-## HND Computing 2nd Year @ Dundee & Angus College
+### James MacKenzie
  
 I make things. 
 
