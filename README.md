@@ -1,5 +1,6 @@
-### jurypeak
-
+# James MacKenzie
+## HND Computing 2nd Year @ Dundee & Angus College
+ 
 I make things. 
 
 And I use arch btw.
