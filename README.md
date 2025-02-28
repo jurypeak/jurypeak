@@ -17,7 +17,3 @@ And I use arch btw.
 #### Stolify
 - **Description**: Music website - HND Year 2
 - **Link**: [Stolify](https://github.com/jurypeak/Stolify-PHP)
-
-#### OOP
-- **Description**: OOP assignment - HND Year 2
-- **Link**: [OOP](https://github.com/jurypeak/OOP-Assignment-Year-2)
