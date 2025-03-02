@@ -17,3 +17,7 @@ And I use arch btw.
 #### Stolify
 - **Description**: Music website - HND Year 2
 - **Link**: [Stolify](https://github.com/jurypeak/Stolify-PHP)
+
+#### DiscordBot
+- **Description**: Learning discord.js
+- **Link**: [Stolify](https://github.com/jurypeak/DiscordBot)
