@@ -20,4 +20,4 @@ And I use arch btw.
 
 #### DiscordBot
 - **Description**: Learning discord.js
-- **Link**: [Stolify](https://github.com/jurypeak/DiscordBot)
+- **Link**: [DiscordBot](https://github.com/jurypeak/DiscordBot)
