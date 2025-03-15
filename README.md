@@ -14,10 +14,6 @@ And I use arch btw.
 - **Description**: Dotfiles for my arch linux system config.
 - **Link**: [Dotfiles](https://github.com/jurypeak/.dotfiles)
 
-#### Stolify
-- **Description**: Music website - HND Year 2
-- **Link**: [Stolify](https://github.com/jurypeak/Stolify-PHP)
-
 #### DiscordBot
 - **Description**: Learning discord.js
 - **Link**: [DiscordBot](https://github.com/jurypeak/DiscordBot)
