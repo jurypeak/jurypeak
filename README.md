@@ -8,7 +8,7 @@ And I use arch btw.
 
 #### Food Dream LTD
 - **Description**: Graded Unit - HND Year 2
-- **Link**: [Food Dream LTD](https://github.com/jurypeak/Food-Dream-LTD)
+- **Link**: [Food Dream](https://github.com/jurypeak/FoodDream)
 
 #### Dotfiles
 - **Description**: Dotfiles for my arch linux system config.
