@@ -19,6 +19,6 @@
 - **Description**: Learning discord.js
 - **Link**: [DiscordBot](https://github.com/jurypeak/DiscordBot)
 
-#### 🎸 Spotify
+#### 🎸 Spotify | Currently Listening To...
 
 [![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/57mypw1swt64tejbunhdj7aj0)
