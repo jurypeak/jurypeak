@@ -24,6 +24,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jurypeak/jurypeak/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="left">
-  <img src="?theme=dark&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
+[![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify)](https://open.spotify.com/user/jxmesak)
