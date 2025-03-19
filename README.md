@@ -18,4 +18,4 @@
 - **Description**: Learning discord.js
 - **Link**: [DiscordBot](https://github.com/jurypeak/DiscordBot)
 
-[![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify)](https://open.spotify.com/user/jxmesak)
+[![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify)](https://open.spotify.com/user/57mypw1swt64tejbunhdj7aj0)
