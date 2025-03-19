@@ -5,6 +5,7 @@
 🐧 And I use arch btw.
 
 🚀 Currently working on:
+<br>
 
 #### 🍜 Food Dream
 - **Description**: Graded Unit - HND Year 2
@@ -17,5 +18,7 @@
 #### 🤖 DiscordBot
 - **Description**: Learning discord.js
 - **Link**: [DiscordBot](https://github.com/jurypeak/DiscordBot)
+
+<br>
 
 [![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify)](https://open.spotify.com/user/57mypw1swt64tejbunhdj7aj0)
