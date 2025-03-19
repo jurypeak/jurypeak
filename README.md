@@ -21,4 +21,4 @@
 
 #### 🎸 Spotify
 
-[![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify)](https://open.spotify.com/user/57mypw1swt64tejbunhdj7aj0)
+[![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/57mypw1swt64tejbunhdj7aj0)
