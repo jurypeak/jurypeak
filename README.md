@@ -2,7 +2,7 @@
  
 👾 I make things. 
 
-And I use arch btw ;)
+🐧 And I use arch btw.
 
 🚀 Currently working on:
 
