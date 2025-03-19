@@ -18,10 +18,4 @@
 - **Description**: Learning discord.js
 - **Link**: [DiscordBot](https://github.com/jurypeak/DiscordBot)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jurypeak/jurypeak/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jurypeak/jurypeak/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jurypeak/jurypeak/output/pacman-contribution-graph.svg">
-</picture>
-
 [![Spotify](https://novatorem-dusky-six.vercel.app/api/spotify)](https://open.spotify.com/user/jxmesak)
